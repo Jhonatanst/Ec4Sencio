@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Modo Claro -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Configura los atributos del tema claro aquí -->
+        <item name="android:windowBackground">@color/cardview_light_background</item>
+    </style>
+
+    <!-- Modo Oscuro -->
+    <style name="AppTheme.Dark" parent="Theme.AppCompat">
+        <!-- Configura los atributos del tema oscuro aquí -->
+        <item name="android:windowBackground">@color/cardview_dark_background</item>
+    </style>
+
+
+
+</resources>
